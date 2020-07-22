@@ -1,6 +1,7 @@
 # docker-bam2fasta
 
-
+Wraps this:
+https://github.com/czbiohub/bam2fasta
 
 
 ```
